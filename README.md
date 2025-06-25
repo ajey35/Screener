@@ -45,7 +45,7 @@
 
 | Sorting Options | Chart Analysis |
 |:---------------:|:---------:|
-| ![](https://github.com/user-attachments/assets/727e818f-1e6d-4400-9851-594a315d289b) | ![WhatsApp Image 2025-06-25 at 18 58 22_156f35c4](https://github.com/user-attachments/assets/5332bc7a-2546-4e6b-bbeb-7c454b893795)
+| ![](https://github.com/user-attachments/assets/727e818f-1e6d-4400-9851-594a315d289b | ![WhatsApp Image 2025-06-25 at 18 58 22_156f35c4](https://github.com/user-attachments/assets/5332bc7a-2546-4e6b-bbeb-7c454b893795)
 ) |
 
 ---
