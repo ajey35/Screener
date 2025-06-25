@@ -33,9 +33,10 @@
 |:-----------------:|:----------------:|:---------------:|
 | ![](https://github.com/user-attachments/assets/7d8219f0-cb01-48a7-8fa5-759be48e5a2b) | ![](https://github.com/user-attachments/assets/abaad3d9-6bd5-420e-9238-acb1db6b66fa) | ![](https://github.com/user-attachments/assets/1f7770fe-896a-4d29-bfd6-ed88403d5b22) |
 
-| Sorting Options | Dark Mode |
+| Sorting Options | Chart Analysis |
 |:---------------:|:---------:|
-| ![](https://github.com/user-attachments/assets/727e818f-1e6d-4400-9851-594a315d289b) | ![](https://github.com/user-attachments/assets/9056e953-f5dd-438d-a168-2cac6f3e0b56) |
+| ![](https://github.com/user-attachments/assets/727e818f-1e6d-4400-9851-594a315d289b) | ![](![WhatsApp Image 2025-06-25 at 18 58 23_da01664f](https://github.com/user-attachments/assets/a3944a29-cbb9-428d-a354-6613826a4376)
+) |
 
 ---
 
