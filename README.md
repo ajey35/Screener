@@ -11,7 +11,7 @@
 ## 🎥 Demo
 
 <!-- Add your demo video link below -->
-[![Watch the demo](https://img.shields.io/badge/Watch-Demo-FF0000?logo=youtube&logoColor=white)](DEMO_VIDEO_LINK_HERE)
+[![Watch the demo](https://img.shields.io/badge/Watch-Demo-FF0000?logo=youtube&logoColor=white)](https://drive.google.com/file/u/1/d/1vgeao41e-Smz1sZU572qLx4-UVCjfMum/view)
 
 ---
 
@@ -34,7 +34,6 @@
 | 🔄 **Real-Time Updates**     | Live price tracking with 24/7 updates                   |
 | ⚡ **Performance Optimized** | Smooth scrolling even with large datasets               |
 | 🏆 **Boosted Tokens**        | Highlighted section for featured assets                 |
-| 📈 **Portfolio Tracking**    | Real-time value display for your holdings               |
 
 ---
 
@@ -44,9 +43,10 @@
 |:-----------------:|:----------------:|:---------------:|
 | ![](https://github.com/user-attachments/assets/7d8219f0-cb01-48a7-8fa5-759be48e5a2b) | ![](https://github.com/user-attachments/assets/abaad3d9-6bd5-420e-9238-acb1db6b66fa) | ![](https://github.com/user-attachments/assets/1f7770fe-896a-4d29-bfd6-ed88403d5b22) |
 
-| Sorting Options | Dark Mode |
+| Sorting Options | Chart Analysis |
 |:---------------:|:---------:|
-| ![](https://github.com/user-attachments/assets/727e818f-1e6d-4400-9851-594a315d289b) | ![](https://github.com/user-attachments/assets/9056e953-f5dd-438d-a168-2cac6f3e0b56) |
+| ![](https://github.com/user-attachments/assets/727e818f-1e6d-4400-9851-594a315d289b) | ![](![WhatsApp Image 2025-06-25 at 18 58 22_156f35c4](https://github.com/user-attachments/assets/5332bc7a-2546-4e6b-bbeb-7c454b893795)
+) |
 
 ---
 
