@@ -6,6 +6,17 @@
 
 **Believe Screener** is a high-performance mobile app for real-time cryptocurrency analytics. Built with React Native and TypeScript, it delivers professional-grade token tracking optimized for crypto traders.
 
+---
+
+## 🎥 Demo
+
+<!-- Add your demo video link below -->
+[![Watch the demo](https://img.shields.io/badge/Watch-Demo-FF0000?logo=youtube&logoColor=white)](DEMO_VIDEO_LINK_HERE)
+
+---
+
+## 📱 Screenshots
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/783eae8e-5c94-4ebd-9585-c920a2d6197c" width="250"/>
   <img src="https://github.com/user-attachments/assets/9056e953-f5dd-438d-a168-2cac6f3e0b56" width="250"/>
@@ -15,15 +26,15 @@
 
 ## ✨ Key Features
 
-| Feature                 | Description                                           |
-|-------------------------|------------------------------------------------------|
-| 🔍 **Advanced Token Search** | Find tokens by name/symbol with instant results      |
-| 📊 **Multi-Chain Support**   | Track tokens across 8 blockchain networks            |
-| 🌓 **Light/Dark Themes**     | Optimized viewing in any lighting condition         |
-| 🔄 **Real-Time Updates**     | Live price tracking with 24/7 updates               |
-| ⚡ **Performance Optimized** | Smooth scrolling even with large datasets           |
-| 🏆 **Boosted Tokens**        | Highlighted section for featured assets             |
-| 📈 **Portfolio Tracking**    | Real-time value display for your holdings           |
+| Feature                   | Description                                               |
+|---------------------------|----------------------------------------------------------|
+| 🔍 **Advanced Token Search** | Find tokens by name/symbol with instant results           |
+| 📊 **Multi-Chain Support**   | Track tokens across 8 blockchain networks                |
+| 🌓 **Light/Dark Themes**     | Optimized viewing in any lighting condition             |
+| 🔄 **Real-Time Updates**     | Live price tracking with 24/7 updates                   |
+| ⚡ **Performance Optimized** | Smooth scrolling even with large datasets               |
+| 🏆 **Boosted Tokens**        | Highlighted section for featured assets                 |
+| 📈 **Portfolio Tracking**    | Real-time value display for your holdings               |
 
 ---
 
@@ -33,10 +44,9 @@
 |:-----------------:|:----------------:|:---------------:|
 | ![](https://github.com/user-attachments/assets/7d8219f0-cb01-48a7-8fa5-759be48e5a2b) | ![](https://github.com/user-attachments/assets/abaad3d9-6bd5-420e-9238-acb1db6b66fa) | ![](https://github.com/user-attachments/assets/1f7770fe-896a-4d29-bfd6-ed88403d5b22) |
 
-| Sorting Options | Chart Analysis |
+| Sorting Options | Dark Mode |
 |:---------------:|:---------:|
-| ![](https://github.com/user-attachments/assets/727e818f-1e6d-4400-9851-594a315d289b) | ![](![WhatsApp Image 2025-06-25 at 18 58 23_da01664f](https://github.com/user-attachments/assets/a3944a29-cbb9-428d-a354-6613826a4376)
-) |
+| ![](https://github.com/user-attachments/assets/727e818f-1e6d-4400-9851-594a315d289b) | ![](https://github.com/user-attachments/assets/9056e953-f5dd-438d-a168-2cac6f3e0b56) |
 
 ---
 
@@ -64,7 +74,7 @@ npx expo start
 
 ### Running the App
 
-- **Mobile:** Scan QR code with Expo Go app (iOS/Android)
+- **Mobile:** Scan the QR code with Expo Go app (iOS/Android)
 - **Emulator:**
 
 ```bash
