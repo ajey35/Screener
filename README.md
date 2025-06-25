@@ -41,3 +41,5 @@ To run the project locally:
    ```bash
    git clone https://github.com/your-username/believe-screener.git
    cd believe-screener
+   yarn install or npm install
+   npx expo start
