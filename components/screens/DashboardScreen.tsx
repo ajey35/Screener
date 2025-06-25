@@ -221,7 +221,7 @@ export default function DashboardScreen() {
           >
             <StatsCard
               icon="flash"
-              title="Total Market Cap"
+              title="Boosted Tokens"
               value={boostedTokens.length.toString()}
               color="#eab308"
             />
