@@ -1,10 +1,23 @@
 # Believe Screener – Advanced Token Analytics
 
-Believe Screener is a React Native mobile application that delivers real-time cryptocurrency token data powered by the DexScreener API. The app features an intuitive interface for searching, sorting, and viewing tokens, supporting multiple chains and real-time updates.
+**Believe Screener** is a cutting-edge React Native mobile app for real-time cryptocurrency token analytics, powered by the DexScreener API. Track tokens across multiple blockchains, view live prices, sort and search with ease, and enjoy a polished user experience in both light and dark modes.
 
 ---
 
-## Screenshots
+## 🚀 Features
+
+- **Token Search:** Instantly find tokens by name or symbol.
+- **Comprehensive Sorting:** Sort by volume, price, 24h change, name, or market cap.
+- **Flexible Views:** Toggle between grid and list displays.
+- **Boosted Tokens:** Spotlight section for trending tokens.
+- **Live Portfolio:** See your portfolio value update in real time.
+- **Theme Switching:** Light and dark mode support.
+- **Multi-Chain Support:** Track tokens across 8 major blockchain networks.
+- **Real-Time Data:** Continuous, up-to-date token information.
+
+---
+
+## 📱 Screenshots
 
 | Light Mode | Dark Mode |
 | ---------- | --------- |
@@ -20,26 +33,59 @@ Believe Screener is a React Native mobile application that delivers real-time cr
 
 ---
 
-## Features
+## 🛠️ Getting Started
 
-- **Token Search:** Find tokens by name or symbol.
-- **Sorting:** Sort tokens by volume, price, 24h change, name, or market cap.
-- **Display Options:** Switch between grid and list views.
-- **Boosted Tokens:** Highlighted section for featured tokens.
-- **Live Portfolio:** Real-time value display.
-- **Theme Support:** Light and dark modes.
-- **Multi-Chain:** Supports 8 blockchain networks.
-- **Real-Time Updates:** 24/7 live token tracking.
+### 1. Prerequisites
+
+- [Node.js](https://nodejs.org/) (16.x or later)
+- [Yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+
+### 2. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/believe-screener.git
+cd believe-screener
+```
+
+### 3. Install Dependencies
+
+```bash
+yarn install
+# or
+npm install
+```
+
+### 4. Run the App
+
+```bash
+npx expo start
+```
+Scan the QR code with your Expo Go app or use an emulator/simulator.
 
 ---
 
-## Setup Instructions
+## 🔗 API Reference
 
-To run the project locally:
+Data is fetched via the [DexScreener API](https://docs.dexscreener.com/), ensuring fast and reliable updates for supported chains and tokens.
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/believe-screener.git
-   cd believe-screener
-   yarn install or npm install
-   npx expo start
+---
+
+## 💡 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for new features, bug fixes, or improvements.
+
+---
+
+## 📝 License
+
+Distributed under the MIT License. See [LICENSE](./LICENSE) for details.
+
+---
+
+## 🙏 Acknowledgments
+
+- [DexScreener](https://dexscreener.com/) for their robust API.
+- [Expo](https://expo.dev/) for simplifying React Native development.
+
+---
